@@ -7,7 +7,7 @@ application source code is not here.
 ## Download
 
 Get the latest build from the [**Releases**](https://github.com/vasylm1/md-reader-releases/releases)
-page, or use the [download page](https://md-reader.netlify.app/downloads.html).
+page, or use the [download page](https://markdown-reader-editor.netlify.app/downloads.html).
 
 | Platform | File |
 | -------- | ---- |
@@ -23,11 +23,11 @@ once. After that the app updates itself from this repository.
 
 ## Try it in the browser
 
-<https://md-reader.netlify.app>
+<https://markdown-reader-editor.netlify.app>
 
 ## Privacy &amp; licensing
 
-- [Privacy policy](https://md-reader.netlify.app/privacy.html)
+- [Privacy policy](https://markdown-reader-editor.netlify.app/privacy.html)
 - MIT-licensed. Third-party components and their licenses are listed in
   `THIRD-PARTY-LICENSES.md`, which ships inside the app.
 
